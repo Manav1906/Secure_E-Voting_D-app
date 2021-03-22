@@ -22,7 +22,7 @@ sudo npm install -g truffle
 cd Secure_voting
 ```
 2. Open two new terminals in the project directory (so you should have three different terminals in the Secure_voting directory)
-3. In terminal 3, run the nodejs component of BroncoVotes
+3. In terminal 3, run the nodejs component of Secure_voting
 ```bash
 cd app/javascripts
 node node.js
