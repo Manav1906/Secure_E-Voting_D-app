@@ -1,4 +1,4 @@
-# Secure Voting System using Ethereum's Blockchain
+# Secure E-Voting System using Ethereum's Blockchain
 ## **Description:**
 A Secure E-Voting Decentralised App using Ethereum Blockchain and Node.js
 
